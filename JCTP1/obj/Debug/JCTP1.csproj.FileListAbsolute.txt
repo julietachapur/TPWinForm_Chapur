@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\JCTP1\JCTP1\bin\Debug\JCTP1.exe.config
+C:\Users\User\source\repos\JCTP1\JCTP1\bin\Debug\JCTP1.exe
+C:\Users\User\source\repos\JCTP1\JCTP1\bin\Debug\JCTP1.pdb
+C:\Users\User\source\repos\JCTP1\JCTP1\obj\Debug\JCTP1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JCTP1\JCTP1\obj\Debug\JCTP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\JCTP1\JCTP1\obj\Debug\JCTP1.frmCatalogo.resources
+C:\Users\User\source\repos\JCTP1\JCTP1\obj\Debug\JCTP1.Properties.Resources.resources
+C:\Users\User\source\repos\JCTP1\JCTP1\obj\Debug\JCTP1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\JCTP1\JCTP1\obj\Debug\JCTP1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JCTP1\JCTP1\obj\Debug\JCTP1.exe
+C:\Users\User\source\repos\JCTP1\JCTP1\obj\Debug\JCTP1.pdb
+C:\Users\User\source\repos\JCTP1\JCTP1\obj\Debug\JCTP1.frmAlta.resources
